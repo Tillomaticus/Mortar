@@ -1,8 +1,14 @@
 # Mortar
- Mortar Calculator for the Game Squad
+## Mortar Calculator for the Game Squad
 
- This is reupload of an old project, that has been on hiatus since **2018**!
- 
+###  This is a reupload of an old hobby project, that has been on **hiatus** since **2018**!
+
+This Calculator was the **first** to not only calculate the distance and rotation for two seperate mortars, but also **accounted for height differences**. 
+Without accounting for height differences the mortars would overshoot by several meters or more on hilly maps. 
+Accounting for height differenes was achieved by exporting height maps from the UnrealSDK and normalizing them within the Mortar Calculator. 
+There are easier ways to do this nowaydays, but it was the only option available back then.
+
+![Screenshot 1](https://github.com/Tillomaticus/Mortar/blob/main/Option%20A.PNG)
 
 
 # We ♥ Squad Mortar Calculator						
