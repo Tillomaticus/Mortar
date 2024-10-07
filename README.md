@@ -8,7 +8,7 @@ Without accounting for height differences the mortars would overshoot by several
 Accounting for height differenes was achieved by exporting height maps from the UnrealSDK and normalizing them within the Mortar Calculator. 
 There are easier ways to do this nowaydays, but it was the only option available back then.
 
-![Screenshot 1](https://github.com/Tillomaticus/Mortar/blob/main/Preview.PNG) 
+![Screenshot 1](https://github.com/Tillomaticus/Mortar/blob/main/Preview .PNG) 
 
 
 # We ♥ Squad Mortar Calculator						
