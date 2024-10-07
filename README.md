@@ -1,40 +1,31 @@
 # Mortar
  Mortar Calculator for the Game Squad
 
- This is reupload of an old project, that has been on hiatus since 2018!
+ This is reupload of an old project, that has been on hiatus since **2018**!
  
-########################################################################################
-########################################################################################
 
 
-|		We ♥ Squad Mortar Calculator					|	
-|										|
-|		Created by [W♥S]Tillomaticus					|
-|_______________________________________________________________________________|
+# We ♥ Squad Mortar Calculator						
+										
+## Created by [W♥S]Tillomaticus					
 
 
-				Table of Content
+# Table of Content
 
 1. English
-1.1 How To Use
-1.2 Troubleshooting
+- 1.1 How To Use
+- 1.2 Troubleshooting
 
 2. Deutsch
-2.1 Bedienung
-2.2 Fehlerbehebung
+- 2.1 Bedienung
+- 2.2 Fehlerbehebung
 
 3. Credits
 
 
+## English 					
 
-
-
-| ////////////////////////////////////////////////////////////////////////////	|
-| 				English 					|
-| //////////////////////////////////////////////////////////////////////////// 	|
-	
-
-			// 	How to use 		//
+### How to use
 
 Leftclick and drag the mouse to drag the map.
 Alternatively use WASD or the arrow keys to drag the map.
@@ -70,7 +61,7 @@ Changes here will be saved for the next startup.
 ****************************************************************************************
 
 
-			//	Troubleshooting		//
+### Troubleshooting
 
 	    
 "Data Folder not found"
@@ -79,19 +70,16 @@ Ensure the "*.exe" is in the same folder as the "*_Data" folder.
 
 
 
-
-########################################################################################
-########################################################################################
-
-
+****************************************************************************************
+****************************************************************************************
+****************************************************************************************
 
 
-| ////////////////////////////////////////////////////////////////////////////	|
-| 				Deutsch						|
-| //////////////////////////////////////////////////////////////////////////// 	|
 
 
-			// 	Bedienung 		//
+## Deutsch
+
+### Bedienung
 
 Linksklick und ziehen der Maus um die Karte zu bewegen.
 Alternativ kann die Karte durch drücken der WASD oder Pfeiltasten bewegt werden.
@@ -123,7 +111,7 @@ Gedrückt halten von Alt beim starten der .Exe öffnet den Darstellungsdialog. D
 ****************************************************************************************
 
 
-			//	Fehlerbehebung		//
+### Fehlerbehebung
 
 	    
 "Data Folder not found"
@@ -131,15 +119,8 @@ Gedrückt halten von Alt beim starten der .Exe öffnet den Darstellungsdialog. D
 Stellen Sie sicher, dass sich der "*_Data" Ordner in dem gleichen Ordner wie die "*.Exe" befindet.
 
 
+## Credits
 
 
-########################################################################################
-
-Credits
-
-
-
-Copyright @ We♥Squad 
-http://www.welovesquadgermany.de
-http://www.welovesquadgermany.de/xenforo/
-http://www.welovesquadgermany.de/xenforo/threads/we-%E2%99%A5-squad-mortar-calculator.88/
+Copyright:
+W♥S Logo & Icons: www.welovesquad.com
