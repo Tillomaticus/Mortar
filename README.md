@@ -2,6 +2,7 @@
 ## Mortar Calculator for the Game Squad
 
 ###  This is a reupload of an old hobby project, that has been on **hiatus** since **2018**!
+It was created with Unity 2017.2.0f3
 
 This Calculator was the **first** to not only calculate the distance and rotation for two seperate mortars, but also **accounted for height differences**. 
 Without accounting for height differences the mortars would overshoot by several meters or more on hilly maps. 
